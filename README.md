@@ -8,7 +8,7 @@ A professional, comprehensive presentation on **Backpropagation and Optimization
 
 | File | Description |
 |------|-------------|
-| `backprop-optimization.md` | Main Marp presentation (35+ slides) |
+| `backprop-optimization.md` | Main Marp presentation (39 slides) |
 | `README.md` | Setup and export instructions |
 
 ---

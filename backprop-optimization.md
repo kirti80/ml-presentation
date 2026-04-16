@@ -29,6 +29,8 @@ style: |
 
 ---
 
+## About This Presentation
+
 *From gradient computation to state-of-the-art optimizers*
 
 **Target Audience:** Intermediate to Advanced ML Practitioners
